@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    text-align: center;
+
+
+
+}
+
+#border {
+    border: 4px solid black;
+    border-radius: 10px;
+    height: 300px;
+    display: flex;
+}
+
+#one{
+    display: inline-block;
+    border: 2px solid black;
+    background-color: blue;
+    height: 160px;
+    width: 180px;
+    
+}
+
+#two{
+    display: inline-block;
+    border: 2px solid black;
+    background-color: red;
+    height: 160px;
+    width: 180px;
+}
+
+#three{
+    display: inline-block;
+    border: 2px solid black;
+    background-color: purple;
+    height: 160px;
+    width: 180px;
+}
+
+#four{
+    display: inline-block;
+    border: 2px solid black;
+    background-color: greenyellow;
+    height: 160px;
+    width: 180px;
+}
+
